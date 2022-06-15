@@ -1,6 +1,6 @@
 # Tumik Prints Website
 
-This website is published at  [https://vetjurv4.github.io/letstalk/](https://vetjurv4.github.io/tumik-template/)
+This website is published at https://vetjurv4.github.io/tumik-template/
 
 ## Mission
 
